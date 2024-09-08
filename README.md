@@ -59,8 +59,8 @@ LibraryManagementSystem/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/LibraryManagementSystem.git
-   cd LibraryManagementSystem
+   git clone https://github.com/apantzar/LibraryAPI.git
+   cd LibraryAPI
    ```
 
 2. **Configure the database connection**:
